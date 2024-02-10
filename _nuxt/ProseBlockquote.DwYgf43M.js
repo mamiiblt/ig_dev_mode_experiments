@@ -1,0 +1,1 @@
+import{l as o,b as c,c as t,Z as r}from"./entry.J2J-HGon.js";const n={};function s(e,a){return c(),t("blockquote",null,[r(e.$slots,"default",{},void 0,!0)])}const d=o(n,[["render",s],["__scopeId","data-v-c506252c"]]);export{d as default};

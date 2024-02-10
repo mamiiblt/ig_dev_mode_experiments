@@ -1,0 +1,1 @@
+import{l as t,b as n,c,Z as o}from"./entry.J2J-HGon.js";const a={};function r(e,s){return n(),c("td",null,[o(e.$slots,"default",{},void 0,!0)])}const d=t(a,[["render",r],["__scopeId","data-v-2a0f21ca"]]);export{d as default};
