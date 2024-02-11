@@ -1,0 +1,1 @@
+import{l as r,b as t,c,Z as n}from"./entry.jF-lkyTH.js";const o={};function s(e,a){return t(),c("li",null,[n(e.$slots,"default",{},void 0,!0)])}const d=r(o,[["render",s],["__scopeId","data-v-bc9d9744"]]);export{d as default};
