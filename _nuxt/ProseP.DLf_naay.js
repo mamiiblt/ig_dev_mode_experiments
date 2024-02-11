@@ -1,0 +1,1 @@
+import{l as n,b as t,c as o,Z as c}from"./entry.DAtsPu8M.js";const r={};function a(e,s){return t(),o("p",null,[c(e.$slots,"default",{},void 0,!0)])}const f=n(r,[["render",a],["__scopeId","data-v-ae1f4f41"]]);export{f as default};

@@ -1,1 +1,0 @@
-import{l as t,b as c,c as o,Z as s}from"./entry.DVgVuutP.js";const a={},r={class:"preview-layout"};function n(e,d){return c(),o("div",r,[s(e.$slots,"default",{},void 0,!0)])}const l=t(a,[["render",n],["__scopeId","data-v-b69cc2a8"]]);export{l as default};
