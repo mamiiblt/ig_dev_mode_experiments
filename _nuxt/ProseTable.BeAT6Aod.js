@@ -1,0 +1,1 @@
+import{l as t,b as a,c,e as s,Z as n}from"./entry.DVgVuutP.js";const o={},r={class:"table-wrapper"};function _(e,l){return a(),c("div",r,[s("table",null,[n(e.$slots,"default",{},void 0,!0)])])}const f=t(o,[["render",_],["__scopeId","data-v-8ca647ce"]]);export{f as default};
